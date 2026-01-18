@@ -1,4 +1,4 @@
-# Dashborard-Xbox-game-pass
+# Dashboard-Xbox-game-pass
 ## 📊 Dashboard de Vendas – Xbox Game Pass Subscriptions (Excel)
 
 
