@@ -1,5 +1,5 @@
 # Dashborard-Xbox-game-pass
-📊 Dashboard de Vendas – Xbox Game Pass Subscriptions (Excel)
+## 📊 Dashboard de Vendas – Xbox Game Pass Subscriptions (Excel)
 
 
 Este projeto tem como objetivo o desenvolvimento de um dashboard de vendas no Microsoft Excel, voltado para a organização, análise e visualização de dados relacionados às assinaturas do Xbox Game Pass.
@@ -8,7 +8,7 @@ Todo o dashboard foi construído exclusivamente no Excel, utilizando recursos de
 
 
 
-🚀 Funcionalidades:
+## 🚀 Funcionalidades:
 
 
 📌 Visualização do total de vendas das assinaturas do Xbox Game Pass;
@@ -30,7 +30,7 @@ Todo o dashboard foi construído exclusivamente no Excel, utilizando recursos de
 📌 Estrutura preparada para facilitar análises gerenciais e tomada de decisão;
 
 
-🛠️ Tecnologias Utilizadas:
+## 🛠️ Tecnologias Utilizadas:
 Microsoft Excel;
 
 
@@ -40,10 +40,10 @@ Microsoft Excel;
 •Gráficos dinâmicos;
 
 
-•Segmentação de dados (Slicers);  
+•Segmentação de dados (Slicers).
 
 
-🎯 Objetivo do Projeto:
+## 🎯 Objetivo do Projeto:
 
 
 O objetivo deste projeto é demonstrar a criação de um dashboard de vendas eficiente e visualmente atrativo no Excel, permitindo a análise do desempenho das assinaturas do Xbox Game Pass de forma clara e interativa.
@@ -52,7 +52,7 @@ A solução foi desenvolvida com foco em organização de dados, visualização 
 
 
 
-👩‍💻 Autora:
+## 👩‍💻 Autora:
 
 
 Francislaine Lima,
